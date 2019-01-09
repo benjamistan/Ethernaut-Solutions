@@ -1,5 +1,5 @@
 # Ethernaut-Solutions
 Solutions to the Ethernaut CTFs at https://ethernaut.zeppelin.solutions/
 
-1. Hello Ethernaut: [a relative link](1.Hello Ethernaut.md)
+1. Hello Ethernaut: [a relative link](Hello_Ethernaut.md)
 
